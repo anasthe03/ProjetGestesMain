@@ -104,7 +104,7 @@ Output (3 probabilités)
 
 #### 1. Cloner le dépôt
 ```bash
-git clone https://github.com/votre-username/ProjetGestesMain.git
+git clone https://github.com/anasthe03/ProjetGestesMain.git
 cd ProjetGestesMain
 ```
 
@@ -393,10 +393,13 @@ ProjetGestesMain/
 
 ## 👥 Auteurs
 
-**Votre Nom**
-- GitHub : [@votre-username](https://github.com/votre-username)
-- Email : votre.email@example.com
-- LinkedIn : [Votre Profil](https://linkedin.com/in/votre-profil)
+**Lahmidi Anas**
+- GitHub : [@anasthe03](https://github.com/anasthe03)
+- Email : anaslahmidi03@gmail.com
+
+**Tahiri Sara**
+- GitHub : [@SaraTahiri](https://github.com/SaraTahiri)
+- Email : tahirisara911@gmail.com
 
 ---
 
