@@ -394,7 +394,7 @@ ProjetGestesMain/
 ## 👥 Auteurs
 
 **Lahmidi Anas**
-- GitHub : [@anasthe03](https://github.com/anasthe03)
+- GitHub : [@AnasLahmidi](https://github.com/AnasLahmidi)
 - Email : anaslahmidi03@gmail.com
 
 **Tahiri Sara**
@@ -417,3 +417,4 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 - **Communauté open-source** : Pour les nombreuses ressources
 
 ---
+
